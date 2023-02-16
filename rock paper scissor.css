@@ -1,0 +1,44 @@
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: white;
+    width: 350px;
+    margin-left: 37rem;
+    border-bottom: 5px double white;
+}
+#game{
+    margin-top: 3rem;
+}
+
+.gameText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
+.gameText1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 3rem;
+}
+
+.imgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    /* background-color: rgb(2, 2, 99); */
+    background-color: rgb(25, 25, 62);
+  
+}
+
+
+
